@@ -35,8 +35,8 @@ By the end of this module, you will:
 
 📄 Use the template below:  
 
-```markdown
 ## My AI Integration Plan
+
 
 ### 🗺 Workflow Mapping
 [Draw or describe your current workflow]
@@ -49,3 +49,27 @@ By the end of this module, you will:
 ### 📋 Personalized Plan
 - **Tool 1**: [How and when you’ll use it]
 - **Tool 2**: [How and when you’ll use it]
+### 💬 Debrief & Group Share (5 min)
+- Share your top 2 integration points with peers.  
+- Discuss trade-offs between local and cloud-based AI tools.  
+
+---
+
+### 🛠 Tools
+- [GitHub Copilot](https://github.com/features/copilot)  
+- [Gemini CLI](https://ai.google/tools/gemini)  
+- [Claude Code](https://www.anthropic.com/product)  
+
+---
+
+### 🎉 Outcome
+- ✨ Strategic use of AI tools in your workflow  
+- ⚡ More consistent productivity gains  
+- 💪 Confidence in integrating AI effectively across projects  
+
+---
+
+### 📌 Reflection Questions
+- Which integration point will provide the biggest immediate impact?  
+- What challenges do you anticipate with your plan?  
+- How might local vs cloud agents fit into your workflow?  
