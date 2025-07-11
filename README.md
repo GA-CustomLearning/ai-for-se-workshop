@@ -1,43 +1,36 @@
-# AI for Software Engineers Workshop
+# 🌟 Awesome E-Commerce App
 
-This repository contains the full content for the **AI for SE Workshop**. It’s designed for software engineers to learn how to integrate AI tools into their workflows effectively.
+An AI-accelerated React + TypeScript + Vite e-commerce application. Includes Shadcn UI, Vitest testing, and GitHub Copilot workflow integration.
 
----
+## 🚀 Features
+- Modern React stack with TypeScript
+- Shadcn UI components
+- AI-assisted development workflow (GitHub Copilot, Cursor)
+- End-to-end testing with Vitest
+- Fully documented API & architecture
 
-## 🚀 What's Included
-- ✅ `good-repos/`: Examples of clean architecture and modular design  
-- ✅ `bad-repos/`: Anti-patterns and legacy code for analysis  
-- ✅ `module-1` to `module-4`: Facilitator and participant guides for each session  
-- ✅ `.devcontainer/`: Pre-configured Codespaces setup (Node.js, Copilot, Cursor)  
-- ✅ `LICENSE`: MIT License  
+## 📦 Getting Started
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/your-org/awesome-ecommerce.git
+   cd awesome-ecommerce
+   ```
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
+3. Start the development server:
+   ```bash
+   npm run dev
+   ```
 
----
+## 🧪 Running Tests
+```bash
+npm run test
+```
 
-## 💻 Getting Started
-1. Click the green **Code** button → **Open with Codespaces** → **New Codespace**  
-2. Wait for Codespaces to initialize (~30 seconds)  
-3. Start exploring modules or good/bad repos  
+## 📝 Contributing
+See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
----
-
-## 📚 Modules Overview
-
-| Module | Focus                                    |
-|--------|------------------------------------------|
-| 1      | AI Fundamentals & Tool Agnosticism       |
-| 2      | Prompt Engineering for Developers        |
-| 3      | GitHub Copilot / Cursor Fundamentals     |
-| 4      | Workflow Integration & Personalization   |
-
----
-
-## 🛠 Tech Stack
-- Node.js
-- GitHub Copilot
-- Cursor
-- Jest & ESLint
-
----
-
-## 📖 License
-MIT License
+## 📜 License
+MIT License - see [LICENSE](LICENSE) for details.
