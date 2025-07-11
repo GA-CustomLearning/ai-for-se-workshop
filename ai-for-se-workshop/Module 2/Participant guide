@@ -1,0 +1,17 @@
+# Module 2: Prompt Engineering for Developers – Participant Guide
+
+## 📝 Overview
+Learn to craft effective prompts for coding, debugging, and documentation.
+
+## 🎯 Learning Objectives
+- Design high-quality prompts for consistent outputs
+- Build a library of reusable prompt templates
+
+## 🚀 Activities
+1. Revise a bad prompt into a good one
+2. Create a prompt for setting up a React+Node.js project
+3. Peer test prompts with partners
+
+## 🔗 References
+- [OpenAI Prompt Optimization](https://platform.openai.com/docs/guides/optimizing-llm-accuracy)
+- [Prompt Caching](https://platform.openai.com/docs/guides/prompt-caching)

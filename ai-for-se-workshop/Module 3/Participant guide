@@ -1,0 +1,18 @@
+# Module 3: GitHub Copilot & Cursor Fundamentals – Participant Guide
+
+## 📝 Overview
+Master GitHub Copilot and Cursor for efficient AI pair programming.
+
+## 🎯 Learning Objectives
+- Set up and configure GitHub Copilot & Cursor
+- Use autocomplete, chat mode, and agent mode for real coding tasks
+
+## 🚀 Activities
+1. Setup Copilot and Cursor in Codespaces
+2. Practice autocomplete in new vs existing files
+3. Bug fixing using chat mode
+4. Build a small CLI program using agent mode
+
+## 💬 Discussion
+- When is autocomplete ideal?
+- When should you escalate to chat or agent mode?

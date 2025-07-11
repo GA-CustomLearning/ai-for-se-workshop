@@ -1,0 +1,19 @@
+# Module 1: Introduction to AI for Software Development – Participant Guide
+
+## 📝 Overview
+This module introduces AI fundamentals for software engineers, covering model types, ethical practices, and when to leverage AI tools in development workflows.
+
+## 🎯 Learning Objectives
+- Identify different types of AI models (LLMs, vision, reasoning)
+- Understand autocomplete vs chat vs agent mode
+- Develop a tool-agnostic mindset
+
+## 🚀 Activities
+1. Token counting exercise using OpenAI docs
+2. Compare O1 vs GPT-4x outputs on a sample coding task
+3. Map your workflow to identify when to use powerful models
+
+## 🔗 References
+- [OpenAI Tokenizer](https://platform.openai.com/tokenizer)
+- [OpenAI API Pricing](https://openai.com/api/pricing/)
+- [LM Arena Leaderboard](https://lmarena.ai/leaderboard)
