@@ -1,16 +1,73 @@
-# Module 3: GitHub Copilot & Cursor Fundamentals – Participant Guide
+# 🚀 Module 3: GitHub Copilot / Cursor Fundamentals
 
-## Overview
-Learn to efficiently use GitHub Copilot and Cursor for AI pair programming.
+## ⏱️ Duration
+**105 minutes**
 
-## Objectives
-- Set up and configure Copilot & Cursor
-- Use autocomplete, chat mode, and agent mode
-- Compare tools for productivity
+## 👩‍💻 Audience
+Engineers looking to improve productivity with AI pair programming.
 
-## Activities
-1. Setup Copilot and Cursor in Codespaces
-2. Try autocomplete in new vs existing files
-3. Debug using chat mode
-4. Build a CLI program using agent mode
-5. Discuss: When to use autocomplete vs chat vs agent mode
+## 🎯 Learning Objectives
+By the end of this module, you will:  
+✅ Speed up coding with Copilot and Cursor.  
+✅ Understand interaction patterns and productivity techniques.  
+✅ Compare autocomplete, chat, and agent modes to identify their best use cases.  
+
+---
+
+## 🗺️ Content Flow
+
+### 🔥 Instructor Demo (40 min)
+- Tool setup
+- Feature development
+- Bug fixing
+- Testing workflows
+- Using `@` references for building context
+- Web Search integration
+- Prompting techniques for Copilot
+
+---
+
+### 🛠 Learner Activity (50 min)
+
+#### 📝 Exercises (Mirrored Repo)
+- **Autocomplete**  
+  - Try in a new file (note: limited context)  
+  - Try in an existing file (better results with context)  
+- **Chat Mode**  
+  - Dissect declarative function/class names using JSDoc/comments  
+  - Chat to refine or generate single-file solutions  
+- **Agent Mode**  
+  - Build a small CLI program:  
+    - `core.ts`: Core CLI logic  
+    - `storage.ts`: Save data to `.txt` file  
+  - 🚀 *Stretch*: Add testing to the CLI program  
+
+---
+
+### 💬 Discussion (15 min)
+- When to use:  
+  - Autocomplete  
+  - Chat  
+  - Agent Mode  
+- Share insights on productivity gains and challenges.  
+
+---
+
+## 🛠 Tools
+- [GitHub Copilot](https://github.com/features/copilot)  
+- [Cursor](https://cursor.sh/)  
+
+---
+
+## 🎉 Outcome
+You’ll:  
+✨ Reclaim time for real engineering tasks  
+⚡ Increase development velocity  
+💪 Gain confidence integrating AI into your workflow  
+
+---
+
+## 📌 Reflection Questions
+- Which interaction mode felt most productive for you?  
+- How would you integrate these tools into your daily workflow?  
+- What challenges do you foresee in adopting AI pair programming?  
