@@ -2,5 +2,15 @@
 node_modules/
 dist/
 .env
-.DS_StoreCODE_OF_CONDUCT.md
-CONTRIBUTING.md
+
+# macOS
+.DS_Store
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# VS Code
+.vscode/
