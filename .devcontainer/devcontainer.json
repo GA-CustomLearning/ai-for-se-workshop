@@ -4,9 +4,7 @@
   "extensions": [
     "GitHub.copilot",
     "GitHub.copilot-chat",
-    "GitHub.codespaces"
-  ],
-  "settings": {
-    "terminal.integrated.shell.linux": "/bin/bash"
-  }
+    "esbenp.prettier-vscode",
+    "dbaeumer.vscode-eslint"
+  ]
 }
