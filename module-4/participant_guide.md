@@ -1,8 +1,5 @@
 # 🔥 Module 4: Developer Workflow Integration Activity
 
-## ⏱️ Duration
-**30 minutes**
-
 ## 👩‍💻 Audience
 Software engineers with basic AI knowledge.
 
