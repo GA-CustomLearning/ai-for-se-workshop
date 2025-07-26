@@ -1,0 +1,31 @@
+{
+  "name": "ai-for-se-workshop",
+  "version": "1.0.0",
+  "description": "Welcome to the **AI for Software Engineers** workshop, hosted by General Assembly at Ai4 2025. This repository contains all materials, exercises, and code examples used during the workshop.",
+  "main": "fill-good-repo.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GA-CustomLearning/ai-for-se-workshop.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "workspaces": [
+    "packages/*/*",
+    "packages/*"
+  ],
+  "bugs": {
+    "url": "https://github.com/GA-CustomLearning/ai-for-se-workshop/issues"
+  },
+  "homepage": "https://github.com/GA-CustomLearning/ai-for-se-workshop#readme",
+  "devDependencies": {
+    "turbo": "^2.5.5"
+  }
+}

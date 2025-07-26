@@ -1,10 +1,18 @@
 {
   "name": "AI for SE Workshop",
-  "image": "mcr.microsoft.com/vscode/devcontainers/javascript-node",
+  "image": "mcr.microsoft.com/devcontainers/javascript-node:20",
+  "features": {
+    "ghcr.io/devcontainers/features/common-utils:2": {
+      "installZsh": true,
+      "installOhMyZsh": true,
+      "upgradePackages": true,
+      "username": "vscode"
+    }
+  },
   "extensions": [
     "GitHub.copilot",
     "GitHub.copilot-chat",
     "esbenp.prettier-vscode",
     "dbaeumer.vscode-eslint"
-  ]
-}
+  ],
+  "postCreateCommand": "npm ci --prefix bad-repos/monolith-legacy-app && npm ci --prefix bad-repos/no-tests && npm ci --prefix bad-repos/src && npm ci --prefix good-repos/clean-architecture-api"
