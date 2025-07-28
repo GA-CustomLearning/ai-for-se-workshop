@@ -1,8 +1,5 @@
 # 🚀 Module 3: GitHub Copilot / Cursor Fundamentals
 
-## ⏱️ Duration
-**105 minutes**
-
 ## 👩‍💻 Audience
 Engineers looking to improve productivity with AI pair programming.
 

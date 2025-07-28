@@ -1,8 +1,5 @@
 # 🔥 Module 4: Developer Workflow Integration Activity
 
-## ⏱️ Duration
-**30 minutes**
-
 ## 👩‍💻 Audience
 Software engineers with basic AI knowledge.
 
@@ -17,7 +14,7 @@ By the end of this module, you will:
 ## 🗺️ Content Flow
 
 ### 👨‍🏫 Instructor Demo (10 min)
-- Optional: Demo building a small client-side app for a marketing landing page using **Gemini CLI**.  
+- Demo building a small client-side app for a marketing landing page using **Gemini CLI**.  
 - Alternative: Compare local vs cloud AI agents (Claude Code, Gemini CLI, Codex).  
 
 ---

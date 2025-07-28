@@ -1,13 +1,5 @@
 # 🧑‍🏫 Instructor Guide: Module 3 – GitHub Copilot / Cursor Fundamentals
 
-## ⏱️ Duration
-**105 minutes total**
-- 40 min Demo
-- 50 min Learner Activity
-- 15 min Discussion
-
----
-
 ## 🎯 Job To Be Done
 Help engineers efficiently write code with AI pair programming.
 
