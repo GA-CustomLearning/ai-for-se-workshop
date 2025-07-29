@@ -1,5 +1,13 @@
 # 🧑‍🏫 Instructor Guide: Module 4 – Developer Workflow Integration Activity
 
+## ⏱️ Duration
+**30 minutes total**
+- 10 min Demo
+- 15 min Learner Activity
+- 5 min Debrief & Share
+
+---
+
 ## 🎯 Job To Be Done
 Help engineers integrate AI tools into existing workflows for measurable productivity gains.
 
