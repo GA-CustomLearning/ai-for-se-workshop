@@ -1,4 +1,4 @@
-# 🟢 Module 1: Introduction to AI for Software Development - 📄 Participant Handout
+# 🟢 Module 1: Introduction to AI for Software Development - Participant Guide
 
 ---
 

@@ -1,4 +1,4 @@
-# 📄 Participant Handout: AI for Software Engineers
+# Participant Guide
 
 ## 🎯 Learning Objectives
 By the end of this module, you will:  

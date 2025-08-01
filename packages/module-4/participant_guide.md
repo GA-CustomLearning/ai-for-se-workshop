@@ -1,4 +1,4 @@
-# 🔥 Module 4: Developer Workflow Integration Activity
+# Participant Guide
 
 ## 👩‍💻 Audience
 Software engineers with basic AI knowledge.
@@ -13,7 +13,7 @@ By the end of this module, you will:
 
 ## 🗺️ Content Flow
 
-### 👨‍🏫 Instructor Demo (10 min)
+### 👨‍🏫 Facilitator Demo (10 min)
 - Demo building a small client-side app for a marketing landing page using **Gemini CLI**.  
 - Alternative: Compare local vs cloud AI agents (Claude Code, Gemini CLI, Codex).  
 
@@ -69,4 +69,4 @@ By the end of this module, you will:
 ### 📌 Reflection Questions
 - Which integration point will provide the biggest immediate impact?  
 - What challenges do you anticipate with your plan?  
-- How might local vs cloud agents fit into your workflow?  
+- How might local vs cloud agents fit into your workflow?

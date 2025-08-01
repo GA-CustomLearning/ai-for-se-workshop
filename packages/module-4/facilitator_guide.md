@@ -1,4 +1,4 @@
-# 🧑‍🏫 Instructor Guide: Module 4 – Developer Workflow Integration Activity
+# Facilitator Guide
 
 ## ⏱️ Duration
 **30 minutes total**
@@ -15,7 +15,7 @@ Help engineers integrate AI tools into existing workflows for measurable product
 
 ## 🗺️ Content Flow
 
-### 👨‍🏫 Instructor Demo (10 min)
+### 👨‍🏫 Facilitator Demo (10 min)
 - Show how to use **Gemini CLI** to build a small client-side app for a marketing landing page.  
 - Highlight:  
   - Rapid prototyping across 5–6 pages  

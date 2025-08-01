@@ -1,4 +1,4 @@
-# 🧑‍🏫 Instructor Guide: Module 3 – GitHub Copilot / Cursor Fundamentals
+# Facilitator Guide
 
 ## 🎯 Job To Be Done
 Help engineers efficiently write code with AI pair programming.
@@ -7,7 +7,7 @@ Help engineers efficiently write code with AI pair programming.
 
 ## 🗺️ Content Flow
 
-### 🔥 Instructor Demo (40 min)
+### 🔥 Facilitator Demo (40 min)
 - **Setup**
   - Install and configure GitHub Copilot & Cursor
   - Complete setup in under 15 minutes

@@ -1,4 +1,4 @@
-# 🚀 Module 3: GitHub Copilot / Cursor Fundamentals
+# Participant Guide
 
 ## 👩‍💻 Audience
 Engineers looking to improve productivity with AI pair programming.
@@ -13,7 +13,7 @@ By the end of this module, you will:
 
 ## 🗺️ Content Flow
 
-### 🔥 Instructor Demo (40 min)
+### 🔥 Facilitator Demo (40 min)
 - Tool setup
 - Feature development
 - Bug fixing
@@ -69,4 +69,4 @@ You’ll:
 ## 📌 Reflection Questions
 - Which interaction mode felt most productive for you?  
 - How would you integrate these tools into your daily workflow?  
-- What challenges do you foresee in adopting AI pair programming?  
+- What challenges do you foresee in adopting AI pair programming?

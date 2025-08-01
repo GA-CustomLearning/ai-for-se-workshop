@@ -1,4 +1,4 @@
-# 📖 Facilitator Guide  
+# Facilitator Guide
 ## 🟢 Module 2: Prompt Engineering for Developers
 
 ---
@@ -18,7 +18,7 @@ By the end of this module, learners will:
 |------------------------------------------|-------|
 | Kickoff + Demo: Bad vs Good Prompts      | 8 min |
 | 🔥 Activity 1: Build a Highly Specific Prompt | 10 min|
-| Instructor Demo: Personal Prompt Templates| 15 min|
+| Facilitator Demo: Personal Prompt Templates| 15 min|
 | 🔥 Activity 2: Peer Testing Round-Robin   | 10 min|
 | 🔥 Activity 3: Role-Based Prompting       | 12 min|
 | Reflection & Wrap-Up                     | 5 min |
@@ -38,7 +38,7 @@ Teach participants how to craft detailed, high-context prompts for complex codin
   - Include testing with Vitest and UI with Shadcn UI  
   - Generate a `task_list.md` file for LLM assistance
 
-### 👩‍🏫 Instructor Steps
+### 👩‍🏫 Facilitator Steps
 1. **Intro & Demo (5 min)**  
    - Show a bad prompt:  
      `"Build me a React app."`  
@@ -65,7 +65,7 @@ Enable participants to evaluate and refine each other’s prompts through testin
 - Learners exchange their prompts with a peer.
 - Each peer tests the received prompt in their AI tool of choice.
 
-### 👩‍🏫 Instructor Steps
+### 👩‍🏫 Facilitator Steps
 1. **Explain (2 min)**  
    - Discuss why peer feedback helps improve prompt quality.
 2. **Learner Task (8 min)**  
@@ -92,7 +92,7 @@ Example Roles:
 - Performance Engineer: `"Optimize this function for memory efficiency."`
 - QA Engineer: `"Generate edge case tests for this API."`
 
-### 👩‍🏫 Instructor Steps
+### 👩‍🏫 Facilitator Steps
 1. **Demo (7 min)**  
    - Show role-based prompts and compare responses.
 2. **Learner Reflection (5 min)**  
@@ -113,7 +113,7 @@ List of potential roles and sample prompts to use in future coding tasks.
 - “How will you use role prompting in your workflow?”  
 - “What prompts would you save as templates today?”
 
-### 👩‍🏫 Instructor Wrap-Up
+### 👩‍🏫 Facilitator Wrap-Up
 Reinforce key takeaways:  
 ✅ Specificity and context = higher quality AI outputs.  
 ✅ Peer testing and role prompting improve efficiency.

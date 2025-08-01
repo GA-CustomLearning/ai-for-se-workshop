@@ -1,4 +1,4 @@
-# 🟢 Module 1: Introduction to AI for Software Development -  facilitator guide
+# 🟢 Module 1: Introduction to AI for Software Development - Facilitator Guide
 
 ---
 
@@ -38,7 +38,7 @@ Learn how to analyze token usage in your code and understand its impact on API c
 |--------------------|-------------|--------------|-------------|
 |                    |             |              |             |
 
-###  facilitator Notes
+### Facilitator Notes
 - **Time Estimate:** 15 minutes
 - **Discussion Prompts:**
     - "What was the most surprising thing you learned about token counts?"
@@ -80,7 +80,7 @@ Compare different AI models to decide when to use a faster chat model versus a m
 |-------------------------|---------|---------------|------------------------------|
 |                         |         |               |                              |
 
-### facilitator Notes
+### Facilitator Notes
 - **Time Estimate:** 20 minutes
 - **Discussion Prompts:**
     - "For which tasks would you find the faster, cheaper model to be sufficient?"
@@ -98,7 +98,7 @@ Compare different AI models to decide when to use a faster chat model versus a m
 - What surprised you about token usage or model differences?
 - How can token efficiency improve your development workflow?
 
-### facilitator Notes
+### Facilitator Notes
 - **Time Estimate:** 10 minutes
 - Encourage participants to share their key takeaways from the module.
 - This is a good opportunity to reinforce the learning objectives.
