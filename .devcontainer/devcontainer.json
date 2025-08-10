@@ -16,3 +16,4 @@
     "dbaeumer.vscode-eslint"
   ],
   "postCreateCommand": "npm ci --prefix bad-repos/monolith-legacy-app && npm ci --prefix bad-repos/no-tests && npm ci --prefix bad-repos/src && npm ci --prefix good-repos/clean-architecture-api"
+}
